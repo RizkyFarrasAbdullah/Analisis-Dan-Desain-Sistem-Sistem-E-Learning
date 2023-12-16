@@ -38,10 +38,10 @@ Website edukasi yang dibuat dalam rangka mengatasi solusi pembelajaran kala pand
 Berikut adalah daftar akun untuk keperluan testing saat anda mencoba aplikasi pertama kali, namun anda juga bisa membuat akun dengan daftar di halaman pendaftaran
 
 | Role  | Email                  | Password | URL                                     																		|
-| ----- | ---------------------- | -------- | --------------------------------------- 																		|
+| ----- | ---------------------- | -------- | ----------------------------------------------------------------------------|
 | Admin | admin@gmail.com        | admin    | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome/admin |
-| Siswa | rizky@gmail.com        | 123456   | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/      																		|
-| Guru  | rizky@gmail.com        | 123456   | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome/guru																		|
+| Siswa | rizky@gmail.com        | 123456   | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/      				|
+| Guru  | rizky@gmail.com        | 123456   | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome/guru	|
 
 <p></p>
 
