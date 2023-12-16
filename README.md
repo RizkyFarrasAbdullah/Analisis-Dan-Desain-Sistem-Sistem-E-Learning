@@ -1,6 +1,15 @@
-<h1 align="center">Selamat datang di repository Learnify! 👋🏻</h1>
+<h1 align="center"># Analisis dan Desain Sistem - Sistem-E-Learning 👋🏻</h1>
 
-![learnify-preview](https://user-images.githubusercontent.com/46257169/173141000-0a2346bf-adbc-41cb-9699-e7ffff1cba8e.png)
+## 📖 Pendahuluan
+Dibuat untuk memenuhi tugas mata kuliah Analisis dan Desain Sistem
+
+Rizky Farras Abdullah<br>
+
+12030122140223<br>
+
+Analisis dan Desain Sistem<br>
+
+Kelas C (S1 Akuntansi)<br>
 
 <p></p>
 
