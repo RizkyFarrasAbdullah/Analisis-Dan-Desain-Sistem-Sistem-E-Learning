@@ -1,4 +1,4 @@
-<h1 align="center"># Analisis dan Desain Sistem - Sistem-E-Learning 👋🏻</h1>
+# Analisis dan Desain Sistem - Sistem-E-Learning 👋🏻</h1>
 
 ## 📖 Pendahuluan
 Dibuat untuk memenuhi tugas mata kuliah Analisis dan Desain Sistem
