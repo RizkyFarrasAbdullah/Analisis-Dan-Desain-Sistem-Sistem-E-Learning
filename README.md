@@ -16,28 +16,6 @@ Kelas C (S1 Akuntansi)<br>
 <h4 align="center">Website e-learning untuk membantu belajar dimana saja dan kapan saja yang dibuat dengan <a href="https://codeigniter.com/" target="_blank">Codeigniter</a>.
 </h4>
 
-<p></p>
-
-<p align="center">
-	<img src="https://img.shields.io/github/issues/syauqi/learnify?style=flat-square">
-	<img src="https://img.shields.io/github/stars/syauqi/learnify?style=flat-square"> 
-	<img src="https://img.shields.io/github/forks/syauqi/learnify?style=flat-square">
-	<img src="https://img.shields.io/github/license/syauqi/learnify?style=flat-square">
-	<img src="https://img.shields.io/badge/maintained%3F-no-red.svg?style=flat-square">
-	<img src="https://img.shields.io/github/followers/syauqi.svg?style=flat-square&label=followers">
-</p>
-
-<p align="center">
-  <a href="#tentang">Tentang Project</a> •
-  <a href="#fitur">Fitur</a> •
-  <a href="#download">Download & Install</a> •
-  <a href="#akun">Akun Default</a> •
-  <a href="#dukungan">Dukungan</a> •
-  <a href="#lisensi">Lisensi</a>
-</p>
-
-<p></p>
-
 <h2 id="tentang">👨🏻‍🏫 Tentang Learnify</h2>
 
 Website edukasi yang dibuat dalam rangka mengatasi solusi pembelajaran kala pandemi, learnify dibuat agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
