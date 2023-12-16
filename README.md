@@ -13,9 +13,6 @@ Kelas C (S1 Akuntansi)<br>
 
 <p></p>
 
-<h4 align="center">Website e-learning untuk membantu belajar dimana saja dan kapan saja yang dibuat dengan <a href="https://codeigniter.com/" target="_blank">Codeigniter</a>.
-</h4>
-
 <h2 id="tentang">👨🏻‍🏫 Tentang Learnify</h2>
 
 Website edukasi yang dibuat dalam rangka mengatasi solusi pembelajaran kala pandemi, learnify dibuat agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
