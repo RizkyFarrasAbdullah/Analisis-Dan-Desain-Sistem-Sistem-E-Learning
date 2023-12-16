@@ -37,11 +37,11 @@ Website edukasi yang dibuat dalam rangka mengatasi solusi pembelajaran kala pand
 
 Berikut adalah daftar akun untuk keperluan testing saat anda mencoba aplikasi pertama kali, namun anda juga bisa membuat akun dengan daftar di halaman pendaftaran
 
-| Role  | Email                  | Password | URL                                     |
-| ----- | ---------------------- | -------- | --------------------------------------- |
-| Admin | admin@gmail.com        | admin    | http://localhost/learnify/welcome/admin |
-| Siswa | rizky@gmail.com        | 123456   | http://localhost/learnify/welcome       |
-| Guru  | rizky@gmail.com        | 123456   | http://localhost/learnify/welcome/guru  |
+| Role  | Email                  | Password | URL                                     																		|
+| ----- | ---------------------- | -------- | --------------------------------------- 																		|
+| Admin | admin@gmail.com        | admin    | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome/admin |
+| Siswa | rizky@gmail.com        | 123456   | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/      																		|
+| Guru  | rizky@gmail.com        | 123456   | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome/guru																		|
 
 <p></p>
 
@@ -62,7 +62,7 @@ Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP dan mempunyai s
 
 ```bash
 # Clone repository ini atau download di
-$ git clone https://github.com/syauqi/learnify.git
+$ git clone https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning.git
 
 # Buat database
 Buat database dengan nama "learnify" di DMBS [phpmyadmin, dll]
