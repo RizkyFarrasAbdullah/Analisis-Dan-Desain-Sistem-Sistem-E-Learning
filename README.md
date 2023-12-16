@@ -40,7 +40,7 @@ Berikut adalah daftar akun untuk keperluan testing saat anda mencoba aplikasi pe
 | Role  | Email                  | Password | URL                                     																		|
 | ----- | ---------------------- | -------- | ----------------------------------------------------------------------------|
 | Admin | admin@gmail.com        | admin    | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome/admin |
-| Siswa | rizky@gmail.com        | 123456   | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/      				|
+| Siswa | rizky@gmail.com        | 123456   | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome   		|
 | Guru  | rizky@gmail.com        | 123456   | http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome/guru	|
 
 <p></p>
@@ -71,7 +71,7 @@ Buat database dengan nama "learnify" di DMBS [phpmyadmin, dll]
 Arahkan folder ke learnify/database/learnify.sql & upload ke dbms [phpmyadmin]
 
 # Buka browser
-http://localhost/learnify/welcome
+http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome 
 
 # Enjoy, jika ingin login maka liat panduan akun diatas
 ```
