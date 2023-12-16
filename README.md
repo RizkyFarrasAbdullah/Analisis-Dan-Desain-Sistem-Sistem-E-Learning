@@ -33,14 +33,6 @@ Website edukasi yang dibuat dalam rangka mengatasi solusi pembelajaran kala pand
 
 <p></p>
 
-<h2 id="demo">🏠 Halaman Demo</h2>
-
-Halaman demo untuk sementara tidak ada dikarenakan layanan hosting yang tidak tersedia untuk deploy aplikasi ini, kalian dapat mendownload aplikasi ini lalu menjalankan secara local di komputer anda.
-
-Update: anda dapat mengakses di http://programmer.smkn1ciamis.id/learnify/ namun tolong berikan issues jika website tersebut tidak berjalan
-
-<p></p>
-
 <h2 id="akun">🔑 Daftar Akun Tersedia</h2>
 
 Berikut adalah daftar akun untuk keperluan testing saat anda mencoba aplikasi pertama kali, namun anda juga bisa membuat akun dengan daftar di halaman pendaftaran
