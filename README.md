@@ -84,18 +84,33 @@ http://localhost/learnify/welcome
 
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/de96109e-d7a9-4bb7-8104-b3a54fe671b1)
 
+
+
 * **Data Flow Diagram Level 1**<br>
 
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/b969beee-28b7-43b3-a171-ca63ad8f62bf)
+
+
 
 * **Data FLow Diagram Level 2 Proses 1 Login**<br>
 
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/f2b63c8f-3c6c-44d7-9223-cf2809b91fe2)
 
+
+
 * **Data FLow Diagram Level 2 Proses 2 Pengelolaan User**<br>
 
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/e5c3b991-a4fe-4676-85ac-d4e0469cb7df)
 
+
+
 * **Data FLow Diagram Level 2 Proses 3 Pengelolaan Kelas**<br>
 
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/a5bcf8d5-1cc9-454a-9da5-8fb0a11c69f4)
+
+
+* **Entity Relationship Diagram**<br>
+
+![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/6f90c3e3-5558-4329-ae7b-697163a721c1)
+
+
