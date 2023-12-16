@@ -48,8 +48,8 @@ Berikut adalah daftar akun untuk keperluan testing saat anda mencoba aplikasi pe
 | Role  | Email                  | Password | URL                                     |
 | ----- | ---------------------- | -------- | --------------------------------------- |
 | Admin | admin@gmail.com        | admin    | http://localhost/learnify/welcome/admin |
-| Siswa | zaidanline67@gmail.com | 123456   | http://localhost/learnify/welcome       |
-| Guru  | zaidanline67@gmail.com | 123456   | http://localhost/learnify/welcome/guru  |
+| Siswa | rizky@gmail.com        | 123456   | http://localhost/learnify/welcome       |
+| Guru  | rizky@gmail.com        | 123456   | http://localhost/learnify/welcome/guru  |
 
 <p></p>
 
@@ -86,29 +86,3 @@ http://localhost/learnify/welcome
 
 <p></p>
 
-<h2 id="dukungan">💌 Dukungan</h2>
-
-Kalian bisa mendukung saya di platform trakteer! Dukungan kalian akan sangat membantu untuk saya, namun dengan anda star project ini juga sudah sangat membantu lho!
-
-<p></p>
-
-<a href="https://trakteer.id/syaufy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
-
-<p></p>
-
-<h2 id="kontribusi">🤝 Kontribusi</h2>
-
-Contributions, issues and feature requests sangat saya apresiasi karena aplikasi ini jauh dari kata sempurna. Jangan ragu untuk pull request dan membuat perubahan pada project ini.
-
-Berhubung Project ini saya selesaikan sendiri, namun banyak fitur dan banyak hal yang bisa diperbaiki maka bantuan kalian sangat saya apresiasi.
-
-<p></p>
-
-<h2 id="lisensi">📝 Lisensi</h2>
-
-- Copyright © 2022 SYAUQIZAIDAN KHAIRAN KHALAF
-- Learnify adalah aplikasi web open-source yang berlisensi dibawah lisensi MIT
-
----
-
-**<p align="center">Made with ❤️ by SYAUQIZAIDAN KHAIRAN KHALAF</p>**
