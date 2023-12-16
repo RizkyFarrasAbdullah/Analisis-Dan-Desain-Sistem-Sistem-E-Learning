@@ -113,4 +113,11 @@ http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome
 
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/6f90c3e3-5558-4329-ae7b-697163a721c1)
 
+## 💾 Database MySQL (phpMyAdmin)
+
+* **Alur Primary Key**<br>
+
+![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/e55dfa5c-4df8-47a2-91dc-ac0fc06c6dc8)
+
+## 🔎 Tampilan Sistem E-Learning Secara Lengkap
 
