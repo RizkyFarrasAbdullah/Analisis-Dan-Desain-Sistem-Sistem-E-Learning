@@ -80,4 +80,8 @@ http://localhost/learnify/welcome
 
 ## ⌗ Data Flow Diagram dan Entity Relationship Diagram
 
+* **Diagram Konteks**<br>
+
+![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/de96109e-d7a9-4bb7-8104-b3a54fe671b1)
+
 
