@@ -111,7 +111,8 @@ http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome
 
 * **Entity Relationship Diagram**<br>
 
-![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/6f90c3e3-5558-4329-ae7b-697163a721c1)
+![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/e59972e3-38de-4701-a158-b60a3e52868e)
+
 
 ## 💾 Database MySQL (phpMyAdmin)
 
