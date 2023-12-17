@@ -122,6 +122,8 @@ http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome
 
 ## 🔎 Tampilan Sistem E-Learning Secara Lengkap
 
+* **Tampilan Beranda**<br>
+
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/58a09dda-9c35-4cd4-bacd-26da2c786606)
 
 
@@ -131,15 +133,20 @@ http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/f09efe02-b75f-4640-b608-ae9b77c1f923)
 
 
+* **Tampilan Pelajaran Yang Tersedia**<br>
+
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/5e32cd53-a3d7-4c01-9a48-5cbc651dc1b9)
 
 
+* **Tampilan Tentang**<br>
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/876c053a-a619-48fd-9260-128f397ae0ef)
 
 
+* **Tampilan Login Admin**<br>
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/227536bf-a67b-4c73-b90b-a9a802d9ea39)
 
 
+* **Tampilan Beranda Admin**<br>
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/d1559512-1f09-4018-99a6-30dd11e39b43)
 
 
