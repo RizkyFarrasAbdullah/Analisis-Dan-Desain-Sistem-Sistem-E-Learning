@@ -142,14 +142,15 @@ http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/876c053a-a619-48fd-9260-128f397ae0ef)
 
 
-* **Tampilan Login Admin**<br>
+* **Tampilan Kontak**<br>
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/227536bf-a67b-4c73-b90b-a9a802d9ea39)
 
 
-* **Tampilan Beranda Admin**<br>
+* **Tampilan Login Admin**<br>
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/d1559512-1f09-4018-99a6-30dd11e39b43)
 
 
+* **Tampilan Beranda Admin**<br>
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/227b8ba9-9768-409f-8602-249ddd798982)
 
 
