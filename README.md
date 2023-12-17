@@ -158,57 +158,76 @@ http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/da8dd622-dc1d-4849-a070-96d7145cb3a5)
 
 
+* **Tampilan Form Pendaftaran Akun Siswa**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/bee8d169-bd13-4791-baf9-4394db0d43b8)
 
 
+* **Tampilan Form Pendaftaran Akun Siswa**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/47a2d94b-bfb6-4c9b-84dd-c50736d915c1)
 
 
+* **Tampilan Data Guru**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/b40a9243-d432-4a14-89cc-522077a87235)
 
 
+* **Tampilan Form Pendaftaran Akun Guru**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/d54082fb-8c08-40ae-918e-e51ed0d33643)
 
 
+
+* **Tampilan Data Materi**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/93defe2d-e098-4451-a8b9-0c4a7fd17cef)
 
 
+* **Tampilan Form Penambahan Data Materi Oleh Admin**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/d5299d4a-f337-4502-92b9-43e52fd94d6a)
 
 
+* **Tampilan Tentang Pembuat**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/dbd954a4-88d3-479f-8877-8f744af8759d)
 
 
+* **Tampilan Tentang Learnify**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/c3593754-52d0-4fc8-9757-90444010035c)
 
 
+* **Tampilan Login Guru**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/f083b1df-f877-4bc8-902e-2ac25f8fbeb3)
 
 
+* **Tampilan Beranda Guru**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/3e9f99c1-251b-4ff0-b9a9-591e0d3cf64e)
 
 
+* **Tampilan Form Penambahan Materi Oleh Guru**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/c93ac4b5-da15-4153-abce-9ece7d7462ab)
 
 
+* **Tampilan Login Siswa**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/d072b6a4-caa7-4e69-b83b-a331fadd5b90)
 
 
+* **Tampilan Beranda Siswa**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/ce9aee79-36c3-4505-920b-cd51578fd50c)
 
 
+* **Tampilan MataPelajaran Tersedia**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/23845e22-6900-478f-9298-a9e642463d89)
 
 
+* **Tampilan Materi Matematika**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/c3ca1998-168a-4781-8ad1-285b7121abbd)
 
 
+* **Tampilan Contoh Materi Matematika**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/4c75ac73-9249-47f9-9fc5-b8bca06e7a0b)
 
 
+* **Tampilan Materi IPA**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/22abd8cd-96bf-454e-b0ff-b6b4d926f87b)
 
 
+* **Tampilan Contoh Materi IPA**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/131e81ac-e765-4670-86eb-738e86fb7509)
 
 
@@ -218,9 +237,11 @@ http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/113993c1-4770-478b-83bc-acb552bb8a37)
 
 
+* **Tampilan Materi Bahasa Inggris**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/a3fb5a72-2365-4e37-94be-6ed3f5b5e95b)
 
 
+* **Tampilan Contoh Materi Bahasa Inggris**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/ea72e1cb-b07b-400e-98ae-216a56c984e9)
 
 
@@ -230,9 +251,11 @@ http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/90174940-07e3-41f1-9eb9-8843852b26ac)
 
 
+* **Tampilan Materi Bahasa Indonesia**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/53a05ca8-ad1c-416d-bedb-ad235cd116ab)
 
 
+* **Tampilan COntoh Materi Bahasa Indonesia**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/ece76343-adbb-4ccf-a2f0-a388385d0f32)
 
 
@@ -242,9 +265,11 @@ http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/a65e0365-39b2-4f94-abec-5a13a265cf65)
 
 
+* **Tampilan Materi PAI**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/625f822b-99c1-4d26-b0f1-6e14ed844c91)
 
 
+* **Tampilan Contoh Materi PAI**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/19c31a6b-335e-4f61-8a35-44f5ca3f3498)
 
 
@@ -254,6 +279,7 @@ http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/7274b5c3-2216-4352-a4cd-478bdea37415)
 
 
+* **Tampilan Diskusi Materi**
 ![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/443f0773-6a6b-4c78-bc73-3f6bab9eeecd
 
 
