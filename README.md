@@ -280,6 +280,6 @@ http://localhost/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/welcome
 
 
 * **Tampilan Diskusi Materi**
-![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/443f0773-6a6b-4c78-bc73-3f6bab9eeecd
+![image](https://github.com/RizkyFarrasAbdullah/Analisis-Dan-Desain-Sistem-Sistem-E-Learning/assets/152374263/443f0773-6a6b-4c78-bc73-3f6bab9eeecd)
 
 
